@@ -1,8 +1,8 @@
-baseURL = "https://danysk.github.io/Template-Hugo-Reveal-Slides"
+baseURL = "https://metaphori.github.io/Template-Hugo-Reveal-Slides"
 languageCode = "en-us"
 title = "A Hugo theme for creating Reveal.js presentations"
 disableKinds = ["sitemap", "RSS"]
-theme = "reveal-hugo"
+theme = "my-theme"
 publishDir = "build"
 
 # uncomment for browsing at file:///
@@ -10,7 +10,7 @@ publishDir = "build"
 # uglyURLs = true
 
 [author]
-name = "Danilo Pianini"
+name = "Roberto Casadei"
 
 # currently only the unsafe mode for goldmark is supported
 [markup.goldmark.renderer]
